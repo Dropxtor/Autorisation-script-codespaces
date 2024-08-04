@@ -10,6 +10,7 @@
 
 - Ouvrez votre Codespace et créez un fichier settings.json dans le dossier racine de votre projet.
 - Ajoutez les lignes suivantes au fichier settings.json :
+  
 1 - ▶️
 
 ```bash
@@ -23,7 +24,9 @@
 - Remplacez <votre_client_id> et <votre_client_secret> par les valeurs que vous avez générées lors de la création de votre application GitHub précédemment.
 
 - Installez l'extension "Octokit" (SDK GitHub) en ajoutant la ligne suivante dans votre fichier codespace.yml :
+  
 2 - 🍫
+
 ```bash
 packages:
   - octokit@latest

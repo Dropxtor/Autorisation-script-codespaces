@@ -5,7 +5,7 @@
 - Configurez les autorisations pour votre application GitHub :
 - Sélectionnez "Authorization" > "Read and write: repositories".
 - Ajoutez les "Repositories" que vous souhaitez que l'application puisse modifier.
--Copiez le "Client Secret" généré lors de la création de l'application GitHub. Vous ne pourrez pas récupérer ce code ultérieurement, donc assurez-vous de le copier maintenant.
+- Copiez le "Client Secret" généré lors de la création de l'application GitHub. Vous ne pourrez pas récupérer ce code ultérieurement, donc assurez-vous de le copier maintenant.
 - Maintenant, sur Codespace :
 
 - Ouvrez votre Codespace et créez un fichier settings.json dans le dossier racine de votre projet.
